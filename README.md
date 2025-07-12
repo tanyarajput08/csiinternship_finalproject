@@ -1,16 +1,16 @@
-# 🚚 Deliveria – Shipment Delivery & Tracking App
+#  Deliveria – Shipment Delivery & Tracking App
 
 A fully-responsive, real-time shipment delivery platform inspired by modern delivery systems like Shiprocket. Built with **React**, styled beautifully in dark mode, and powered by **React-Leaflet** for map tracking.
 
 ---
 
-## 🔥 Live Preview
+##  Live Preview
 
 > _Coming Soon_ – Add deployment link here (e.g., Vercel, Netlify, or GitHub Pages)
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 > _These are located in the `/screenshots` folder_
 
@@ -31,21 +31,21 @@ A fully-responsive, real-time shipment delivery platform inspired by modern deli
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🔐 **User Authentication** (Register / Login / Logout)
-- 🏠 **Dashboard Overview**
-- 📦 **Create Shipments**
-- 📋 **My Shipments View** with status & date
-- 🛰️ **Track Shipment with Map & Timeline**
-- 👤 **User Profile**
-- 🎨 **Dark Mode Design**
-- 🗺️ **Live Map with Leaflet & OpenStreetMap**
-- 🏷️ **Status Badges** with color (Delivered, In Transit, Pending Pickup)
+-  **User Authentication** (Register / Login / Logout)
+- **Dashboard Overview**
+-  **Create Shipments**
+- **My Shipments View** with status & date
+-  **Track Shipment with Map & Timeline**
+-  **User Profile**
+-  **Dark Mode Design**
+- **Live Map with Leaflet & OpenStreetMap**
+-  **Status Badges** with color (Delivered, In Transit, Pending Pickup)
 
 ---
 
-## ✨ UI Enhancements
+##  UI Enhancements
 
 - **AOS** for scroll animations  
 - **React Icons** for consistent visuals  
@@ -55,7 +55,7 @@ A fully-responsive, real-time shipment delivery platform inspired by modern deli
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **React** (Hooks + Context API)
 - **React Router v7**
@@ -66,7 +66,7 @@ A fully-responsive, real-time shipment delivery platform inspired by modern deli
 
 ---
 
-## 🧪 User Flow
+## User Flow
 
 1. **Register/Login**
 2. **View Dashboard**
@@ -77,7 +77,7 @@ A fully-responsive, real-time shipment delivery platform inspired by modern deli
 
 ---
 
-## 📦 How to Run Locally
+## How to Run Locally
 
 ```bash
 git clone https://github.com/your-username/deliveria.git
