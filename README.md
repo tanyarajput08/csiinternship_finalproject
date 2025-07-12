@@ -25,6 +25,9 @@ A fully-responsive, real-time shipment delivery platform inspired by modern deli
 | login page | ![](./screenshots/Screenshot%202025-07-12%20205139.png) |
 | dashboard | ![](./screenshots/Screenshot%202025-07-12%20205150.png) |
 |create shipment page | ![](./screenshots/Screenshot%202025-07-12%20205159.png) |
+| shipment list| ![](./screenshots/Screenshot%202025-07-12%20205208.png) |
+| map to track orders | ![](./screenshots/Screenshot%202025-07-12%20205322.png) |
+| my profile page | ![](./screenshots/Screenshot%202025-07-12%20205331.png) |
 
 ---
 
