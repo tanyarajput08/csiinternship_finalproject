@@ -16,7 +16,7 @@ A fully-responsive, real-time shipment delivery platform inspired by modern deli
 
 | Page | Screenshot |
 |------|------------|
-| Home Page | ![https://github.com/tanyarajput08/csiinternship_finalproject/blob/main/screenshots/Screenshot%202025-07-12%20205050.png](./screenshots/Screenshot%202025-07-12%20205050.png) |
+| Home Page | ![](./screenshots/Screenshot%202025-07-12%20205050.png) |
 | Dashboard | ![](./screenshots/Screenshot%202025-07-12%20205059.png) |
 | Create Shipment Form | ![](./screenshots/Screenshot%202025-07-12%20205107.png) |
 | My Shipments List | ![](./screenshots/Screenshot%202025-07-12%20205116.png) |
